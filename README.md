@@ -33,3 +33,19 @@ PreRequisites:
 
 5 AWS VPC,S3,EKS,EC2
 
+
+
+In this Project below are the things discussed.
+
+1. Build a Reusable module
+2. Multiple VPC Creation
+3. Multiple Subnets Creation
+4. Public | Private Subnets Creation
+5. Internet Gateway Creation
+6. Route Table creation
+7. Route table association
+8. Eks cluster + IAM roles+ Policies
+9. NodeGroup Creation + IAM ROLEs +Policies
+
+
+
