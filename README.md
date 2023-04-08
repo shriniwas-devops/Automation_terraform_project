@@ -58,6 +58,10 @@ coming to modules part inside modules part i will create multipal folder here go
 
 
 
+Push all the terrform infrastructurecode file into github
+
+
+![fgd](https://user-images.githubusercontent.com/122585172/230705932-195149d6-876b-4f3d-ba2f-a18074aeeead.png)
 
 
 
