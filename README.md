@@ -65,6 +65,8 @@ Push all the terrform infrastructurecode file into github
 
 
 
+output:
+
 
 
 
