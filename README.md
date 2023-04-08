@@ -48,4 +48,21 @@ In this Project below are the things discussed.
 9. NodeGroup Creation + IAM ROLEs +Policies
 
 
+So here we are going to create one VPC and (2 public subnet + 2 private subnet)
+
+I am going to create config folder and modules we have 2 folder which i will keep all of my modules here and after that we will have many many files.
+
+we will have main.tf and we will have variables.tf and after that we need version.tf and provider.tf
+
+coming to modules part inside modules part i will create multipal folder here going to moudule i have a folder like aws_vpc , aws_subnet , aws_s3_aws_igw , aws_elstic_ip , aws_eks , aws_eks_nodegroup , aws_route_table , aws_route_table_association etc.
+
+
+
+
+
+
+
+
+
+
 
