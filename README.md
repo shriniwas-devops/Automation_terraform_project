@@ -23,10 +23,13 @@ Project Info:
 
 PreRequisites:
 
-. Git
-. Github
+1 Git
 
-.Jenkins
-.SonarQube
-.AWS VPC,S3,EKS,EC2
+2 Github
+
+3 Jenkins
+
+4 SonarQube
+
+5 AWS VPC,S3,EKS,EC2
 
