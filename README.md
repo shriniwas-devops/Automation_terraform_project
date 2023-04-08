@@ -67,7 +67,14 @@ Push all the terrform infrastructurecode file into github
 
 output:
 
+Terraform plan  command after output:
 
+![DSFD](https://user-images.githubusercontent.com/122585172/230717405-4e1a130c-67ea-4be4-bc64-8f56ca2eaf37.png)
+
+Terraform apply command after output:
+
+
+![FDGGFD](https://user-images.githubusercontent.com/122585172/230717439-6087a616-0782-4665-a4a3-54fc589b6032.png)
 
 
 
