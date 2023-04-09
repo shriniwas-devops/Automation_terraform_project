@@ -159,7 +159,7 @@ Final application output:
 
 
 ![retretr](https://user-images.githubusercontent.com/122585172/230755924-0ff92c0c-17b0-48e0-99f2-823516a5b60c.png)
-![09 04 2023_10 49 41_REC](https://user-images.githubusercontent.com/122585172/230755927-ca140eb7-5379-44ca-845b-96b84dbacba7.png)
+
 
 
 
