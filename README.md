@@ -143,12 +143,23 @@ After that we will see jenkins-cd file creation:
 Jenkins output:
 
 
-![09 04 2023_10 49 41_REC](https://user-images.githubusercontent.com/122585172/230755858-67281e2c-4af0-471d-9c6f-f3695b6fb4ab.png)
+
 
 
 ![eretretrt](https://user-images.githubusercontent.com/122585172/230755655-58e1dd9d-29ac-4a49-bd97-f168008f854c.png)
 
 EKS deployment output:
+
+![09 04 2023_10 49 41_REC](https://user-images.githubusercontent.com/122585172/230755858-67281e2c-4af0-471d-9c6f-f3695b6fb4ab.png)
+
+you just need to copy load balencer and put it browser
+
+Final application output:
+
+
+
+![retretr](https://user-images.githubusercontent.com/122585172/230755924-0ff92c0c-17b0-48e0-99f2-823516a5b60c.png)
+![09 04 2023_10 49 41_REC](https://user-images.githubusercontent.com/122585172/230755927-ca140eb7-5379-44ca-845b-96b84dbacba7.png)
 
 
 
