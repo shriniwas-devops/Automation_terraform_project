@@ -143,9 +143,12 @@ After that we will see jenkins-cd file creation:
 Jenkins output:
 
 
+![09 04 2023_10 49 41_REC](https://user-images.githubusercontent.com/122585172/230755858-67281e2c-4af0-471d-9c6f-f3695b6fb4ab.png)
 
 
 ![eretretrt](https://user-images.githubusercontent.com/122585172/230755655-58e1dd9d-29ac-4a49-bd97-f168008f854c.png)
+
+EKS deployment output:
 
 
 
