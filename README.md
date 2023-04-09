@@ -139,3 +139,14 @@ After that we will see jenkins-cd file creation:
 
 ![fgfdg](https://user-images.githubusercontent.com/122585172/230755505-720080c1-3ea3-4857-aa97-8a5483e882c8.png)
 
+
+Jenkins output:
+
+
+
+
+![eretretrt](https://user-images.githubusercontent.com/122585172/230755655-58e1dd9d-29ac-4a49-bd97-f168008f854c.png)
+
+
+
+
