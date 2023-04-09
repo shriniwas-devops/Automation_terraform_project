@@ -33,6 +33,8 @@ PreRequisites:
 
 5 AWS VPC,S3,EKS,EC2
 
+6 terraform
+
 
 
 In this Project below are the things discussed.
@@ -77,6 +79,47 @@ Terraform apply command after output:
 
 
 ![DSFD](https://user-images.githubusercontent.com/122585172/230717405-4e1a130c-67ea-4be4-bc64-8f56ca2eaf37.png)
+
+Continous Deployment part:
+
+Install Jenkins,sonarqube and nexus 
+
+For jenkins: https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+
+For sonarqube: before sonarqube installtion you need to install docker so for docker:-https://docs.docker.com/engine/install/ubuntu/
+
+instead whole method to install sonarqube we can use :
+    docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+
+For nexus : apt-get update -y
+
+echo "Install Java"
+apt-get install openjdk-8-jdk -y
+java -version
+
+echo "Install Nexus"
+useradd -M -d /opt/nexus -s /bin/bash -r nexus
+echo "nexus ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/nexus
+mkdir /opt/nexus
+wget https://sonatype-download.global.ssl.fastly.net/repository/downloads-prod-group/3/nexus-3.29.2-02-unix.tar.gz
+tar xzf nexus-3.29.2-02-unix.tar.gz -C /opt/nexus --strip-components=1
+chown -R nexus:nexus /opt/nexus
+
+nano /opt/nexus/bin/nexus.vmoptions
+
+
+
+```
+https://www.howtoforge.com/how-to-install-and-configure-nexus-repository-manager-on-ubuntu-20-04/
+
+EKS cluster creation using terraform:
+
+
+![fgdfdhfgh](https://user-images.githubusercontent.com/122585172/230754934-0b835651-635e-42f4-ba16-298155bb213e.png)
+
+
+![dfgdfg](https://user-images.githubusercontent.com/122585172/230754936-86c8eddb-edbe-4194-aafd-5006aefb83c8.png)
+
 
 
 
