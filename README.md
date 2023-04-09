@@ -109,17 +109,15 @@ nano /opt/nexus/bin/nexus.vmoptions
 
 
 
-```
 https://www.howtoforge.com/how-to-install-and-configure-nexus-repository-manager-on-ubuntu-20-04/
 
 EKS cluster creation using terraform:
 
 
-![fgdfdhfgh](https://user-images.githubusercontent.com/122585172/230754934-0b835651-635e-42f4-ba16-298155bb213e.png)
 
+![fgdfdhfgh](https://user-images.githubusercontent.com/122585172/230754973-5d7ea68a-23ac-4c0d-a457-45b80bf5c243.png)
 
-![dfgdfg](https://user-images.githubusercontent.com/122585172/230754936-86c8eddb-edbe-4194-aafd-5006aefb83c8.png)
-
+![dfgdfg](https://user-images.githubusercontent.com/122585172/230754977-4935eb06-6b3d-4381-9683-cd1662c38041.png)
 
 
 
