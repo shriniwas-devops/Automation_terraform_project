@@ -132,5 +132,10 @@ Service.yml file creation:
 
 ![fgdfddfgasert](https://user-images.githubusercontent.com/122585172/230755449-6ed11c00-289d-4b6a-b5a9-0d4eed20ec5c.png)
 
+After that we will see jenkins-cd file creation:
 
+
+
+
+![fgfdg](https://user-images.githubusercontent.com/122585172/230755505-720080c1-3ea3-4857-aa97-8a5483e882c8.png)
 
