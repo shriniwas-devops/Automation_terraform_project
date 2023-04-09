@@ -119,6 +119,14 @@ EKS cluster creation using terraform:
 
 ![dfgdfg](https://user-images.githubusercontent.com/122585172/230754977-4935eb06-6b3d-4381-9683-cd1662c38041.png)
 
+Deployment.yml file creation
+
+![fgdfdhfgh](https://user-images.githubusercontent.com/122585172/230755260-2a44153b-bb34-4219-bf8e-511e08a1aab1.png)
+
+
+
+
+
 
 
 
