@@ -148,9 +148,10 @@ Jenkins output:
 
 
 
+![13 04 2023_09 19 23_REC](https://user-images.githubusercontent.com/122585172/231644838-433bc268-b790-45b6-a8fb-f4320938ec77.png)
 
 
-![eretretrt](https://user-images.githubusercontent.com/122585172/230755655-58e1dd9d-29ac-4a49-bd97-f168008f854c.png)
+
 
 EKS deployment output:
 
