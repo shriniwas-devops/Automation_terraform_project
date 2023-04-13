@@ -162,8 +162,8 @@ you just need to copy load balencer and put it browser
 Final application output:
 
 
+![13 04 2023_09 21 58_REC](https://user-images.githubusercontent.com/122585172/231645765-fb8f5b40-cca2-42c4-b9d5-649f809018a4.png)
 
-![retretr](https://user-images.githubusercontent.com/122585172/230755924-0ff92c0c-17b0-48e0-99f2-823516a5b60c.png)
 
 
 
