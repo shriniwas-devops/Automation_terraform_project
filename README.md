@@ -81,7 +81,8 @@ Terraform plan  command after output:
 Terraform apply command after output:
 
 
-![DSFD](https://user-images.githubusercontent.com/122585172/230717405-4e1a130c-67ea-4be4-bc64-8f56ca2eaf37.png)
+![13 04 2023_09 15 40_REC](https://user-images.githubusercontent.com/122585172/231643999-76bcf362-99f3-49dc-a647-a20fe5bccfb5.png)
+
 
 Continous Deployment part:
 
