@@ -73,8 +73,9 @@ output:
 
 Terraform plan  command after output:
 
-![FDGGFD](https://user-images.githubusercontent.com/122585172/230717439-6087a616-0782-4665-a4a3-54fc589b6032.png)
 
+
+![13 04 2023_09 13 41_REC](https://user-images.githubusercontent.com/122585172/231643667-9a4463ee-24c0-434c-ba2d-e093643d7dd4.png)
 
 
 Terraform apply command after output:
