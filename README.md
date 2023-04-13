@@ -11,7 +11,9 @@ Project Architecture
 <img width="788" alt="terraform" src="https://user-images.githubusercontent.com/122585172/230704921-bdc325c0-1266-4579-9e7e-5ef8fb593d9c.png">
 
 
-![fghfghgfj](https://user-images.githubusercontent.com/122585172/230704923-b94d7949-97de-48ca-89c8-5ccddd7185ce.png)
+![13 04 2023_09 11 24_REC](https://user-images.githubusercontent.com/122585172/231643387-f6df73bb-9f33-4188-9806-1d4b2f3f6dc0.png)
+
+
 
 
 Project Info:
